@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(117, 105, 105);
+}
+.nome{
+    text-align: center;
+    font-size: 50px;
+}
+.foto{
+    position: absolute;
+    padding: 0px 0px 0px 550px;
+}
+.grau{
+    position: absolute;
+    padding: 300px 0px 0px 100px;
+    font-size: 30px;
+}
+.grautexto{
+    padding: 390px 0px 0px 200px;
+}
+.enspro{
+    padding: 50px 0px 0px 100px;
+    font-size: 30px;
+}
+.protxt{
+    padding: 5px 0px 100px 200px;
+}
+.exp{
+    font-size: 30px;
+    margin: 0px 0px 0px 100px;
+}
+.exptxt{
+    padding: 10px 0px 100px 200px;
+}
